@@ -330,7 +330,7 @@ If you use this repository, please cite the associated manuscript once it become
 
 ### Related methods and software
 
-1. **Yu, J. S.; Kwak, Y. B.; Kee, K. H.; Wang, M.; Kim, D. H.; Dorrestein, P. C.; Kang, K. B.; Yoo, H. H., A versatile toolkit for drug metabolism studies with GNPS2: From drug development to clinical monitoring. Nat. Protoc. 2026, 21, (4), 1265-1299.**  
+> 1. **Yu, J. S.; Kwak, Y. B.; Kee, K. H.; Wang, M.; Kim, D. H.; Dorrestein, P. C.; Kang, K. B.; Yoo, H. H., A versatile toolkit for drug metabolism studies with GNPS2: From drug development to clinical monitoring. Nat. Protoc. 2026, 21, (4), 1265-1299.**  
 
 2. **Borelli, T. C.; Arini, G. S.; Feitosa, L. G. P.; Dorrestein, P. C.; Lopes, N. P.; da Silva, R. R., Improving annotation propagation on molecular networks through random walks: introducing ChemWalker. Bioinformatics 2023, 39, (3), btad078.**  
 
