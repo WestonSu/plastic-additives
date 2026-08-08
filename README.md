@@ -332,13 +332,13 @@ If you use this repository, please cite the associated manuscript once it become
 
 > 1. **Yu, J. S.; Kwak, Y. B.; Kee, K. H.; Wang, M.; Kim, D. H.; Dorrestein, P. C.; Kang, K. B.; Yoo, H. H., A versatile toolkit for drug metabolism studies with GNPS2: From drug development to clinical monitoring. Nat. Protoc. 2026, 21, (4), 1265-1299.**  
 
-2. **Borelli, T. C.; Arini, G. S.; Feitosa, L. G. P.; Dorrestein, P. C.; Lopes, N. P.; da Silva, R. R., Improving annotation propagation on molecular networks through random walks: introducing ChemWalker. Bioinformatics 2023, 39, (3), btad078.**  
+> 2. **Borelli, T. C.; Arini, G. S.; Feitosa, L. G. P.; Dorrestein, P. C.; Lopes, N. P.; da Silva, R. R., Improving annotation propagation on molecular networks through random walks: introducing ChemWalker. Bioinformatics 2023, 39, (3), btad078.**  
 
-3. **Silva, R. R. d.; Wang, M.; Nothias, L.-F.; Hooft, J. J. J. v. d.; Caraballo-Rodríguez, A. M.; Fox, E.; Balunas, M. J.; Klassen, J. L.; Lopes, N. P.; Dorrestein, P. C., Propagating annotations of molecular networks using in silico fragmentation. PLOS Comput. Biol. 2018, 14, (4), e1006089.**  
+> 3. **Silva, R. R. d.; Wang, M.; Nothias, L.-F.; Hooft, J. J. J. v. d.; Caraballo-Rodríguez, A. M.; Fox, E.; Balunas, M. J.; Klassen, J. L.; Lopes, N. P.; Dorrestein, P. C., Propagating annotations of molecular networks using in silico fragmentation. PLOS Comput. Biol. 2018, 14, (4), e1006089.**  
 
-4. **Wang, X.; Li, C.; Li, Z.; Qi, Y.; Zhang, X.; Zhao, X.; Zhao, C.; Lin, X.; Lu, X.; Xu, G., A structure-guided molecular network strategy for global untargeted metabolomics data annotation. Anal. Chem. 2023, 95, (31), 11603-11612.**  
+> 4. **Wang, X.; Li, C.; Li, Z.; Qi, Y.; Zhang, X.; Zhao, X.; Zhao, C.; Lin, X.; Lu, X.; Xu, G., A structure-guided molecular network strategy for global untargeted metabolomics data annotation. Anal. Chem. 2023, 95, (31), 11603-11612.**  
 
-5. **Zhang, Z.; Pedrycz, W., Intuitionistic multiplicative group analytic hierarchy process and its use in multicriteria group decision-making. IEEE Trans. Cybern. 2018, 48, (7), 1950-1962.**  
+> 5. **Zhang, Z.; Pedrycz, W., Intuitionistic multiplicative group analytic hierarchy process and its use in multicriteria group decision-making. IEEE Trans. Cybern. 2018, 48, (7), 1950-1962.**  
 
 ---
 
