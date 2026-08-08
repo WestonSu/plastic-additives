@@ -1,12 +1,9 @@
 # Identification and Prioritization of Plastic Additives in Chinese Agricultural Soils Using High-Resolution Mass Spectrometry and Network Annotation Propagation
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/R-HRMS%20processing-276DC3?logo=r&logoColor=white" alt="R">
   <img src="https://img.shields.io/badge/Python-Benchmark%20%26%20mNAP-3776AB?logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white" alt="Jupyter">
-  <img src="https://img.shields.io/badge/HRMS-Orbitrap-5A67D8" alt="HRMS">
-  <img src="https://img.shields.io/badge/GNPS-Molecular%20Networking-2F855A" alt="GNPS">
-  <img src="https://img.shields.io/badge/MetFrag-In%20silico%20fragmentation-7B61A8" alt="MetFrag">
 </p>
 
 ---
