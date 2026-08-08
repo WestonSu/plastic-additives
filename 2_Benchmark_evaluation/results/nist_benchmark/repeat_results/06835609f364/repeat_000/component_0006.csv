@@ -1,0 +1,11 @@
+repeat_id,component_id,target_node,target_name,true_inchikey1,n_component_nodes,n_component_seeds,n_component_edges,n_target_candidates,true_candidate_found,MetFrag_rank,ChemWalker_rank,mNAP_rank,ChemWalker_reachable,mNAP_reachable,ChemWalker_fingerprint,ChemWalker_execution,ChemWalker_candidate_edges,ChemWalker_estimated_candidate_pairs,ChemWalker_seconds
+0,6,218,Lauroyl-L-carnitine,FUJLYHJROOYKRA,12,2,48,5,False,,,,False,False,MFP2-bits,official_parallel_subprocess,8708,8708,6.806987762451172
+0,6,219,Palmitoylcarnitine,XOMRRQXKHMYMOC,12,2,48,0,False,,,,False,False,MFP2-bits,official_parallel_subprocess,8708,8708,6.806987762451172
+0,6,339,Octanoylcarnitine,CXTATJFJDMJMIY,12,2,48,12,False,,,,False,False,MFP2-bits,official_parallel_subprocess,8708,8708,6.806987762451172
+0,6,348,Decanoyl-L-carnitine,LZOSYCMHQXPBFU,12,2,48,6,False,,,,False,False,MFP2-bits,official_parallel_subprocess,8708,8708,6.806987762451172
+0,6,349,Myristoyl-L-carnitine,PSHXNVGSVNEJBD,12,2,48,7,False,,,,False,False,MFP2-bits,official_parallel_subprocess,8708,8708,6.806987762451172
+0,6,382,.beta.-Estradiol 17-propionate,PQCRZWCSVWBYSC,12,2,48,42,True,6.0,3.0,3.0,True,True,MFP2-bits,official_parallel_subprocess,8708,8708,6.806987762451172
+0,6,407,"Benzeneethanamine, 3,5-dimethoxy-.alpha.-methyl-4-propoxy-",KKMCHCCXGKYEKJ,12,2,48,50,True,12.0,19.0,44.0,True,True,MFP2-bits,official_parallel_subprocess,8708,8708,6.806987762451172
+0,6,449,(R)-Butyrylcarnitine,QWYFHHGCZUCMBN,12,2,48,50,False,,,,False,False,MFP2-bits,official_parallel_subprocess,8708,8708,6.806987762451172
+0,6,450,Hexanoyl-L-carnitine,VVPRQWTYSNDTEA,12,2,48,24,False,,,,False,False,MFP2-bits,official_parallel_subprocess,8708,8708,6.806987762451172
+0,6,453,Stearoyl-L-carnitine,FNPHNLNTJNMAEE,12,2,48,1,False,,,,False,False,MFP2-bits,official_parallel_subprocess,8708,8708,6.806987762451172

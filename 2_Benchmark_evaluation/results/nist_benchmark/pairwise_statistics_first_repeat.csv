@@ -1,0 +1,4 @@
+comparison,n_fixed_denominator,ChemWalker_Top10_only,MetFrag_Top10_only,both_success,neither_success,paired_exact_p,n_common_finite_rank,ChemWalker_better_rank,MetFrag_better_rank,rank_tie,mean_rank_delta_ChemWalker_minus_MetFrag,wilcoxon_p,mNAP_Top10_only,mNAP_better_rank,mean_rank_delta_mNAP_minus_MetFrag,mean_rank_delta_mNAP_minus_ChemWalker,analysis_scope
+ChemWalker vs MetFrag,197,27.0,6.0,130,34,0.0003240634687244892,197,92.0,45.0,60,-2.2588832487309647,8.294199701141309e-06,,,,,single pre-specified seed repeat 0
+mNAP vs MetFrag,197,,6.0,130,26,4.873598300036974e-06,197,,50.0,48,,5.4221994240393e-06,35.0,99.0,-2.6294416243654823,,single pre-specified seed repeat 0
+mNAP vs ChemWalker,197,1.0,,156,31,0.021484375,197,44.0,,96,,0.10415697506395857,9.0,57.0,,-0.37055837563451777,single pre-specified seed repeat 0

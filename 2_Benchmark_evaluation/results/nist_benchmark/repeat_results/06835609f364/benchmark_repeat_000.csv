@@ -1,0 +1,350 @@
+repeat_id,component_id,target_node,target_name,true_inchikey1,n_component_nodes,n_component_seeds,n_component_edges,n_target_candidates,true_candidate_found,MetFrag_rank,ChemWalker_rank,mNAP_rank,ChemWalker_reachable,mNAP_reachable,ChemWalker_fingerprint,ChemWalker_execution,ChemWalker_candidate_edges,ChemWalker_estimated_candidate_pairs,ChemWalker_seconds
+0,1,51,"7,8-Dihydro-L-Biopterin",FEMXZDUTFRTWPE,164,17,494,22,True,12.0,11.0,5.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,52,N-Glycolylneuraminic acid,FDJKUWYYUZCUJX,164,17,494,36,True,27.0,22.0,8.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,53,"Acetic acid, phenyl ester",IPBVNPXQWQGGJP,164,17,494,50,True,2.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,54,N-(.beta.-Ketocaproyl)-L-homoserine lactone,YRYOXRMDHALAFL,164,17,494,48,True,1.0,5.0,6.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,55,N-(3-Oxooctanoyl)-L-homoserine lactone,FXCMGCFNLNFLSH,164,17,494,50,True,1.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,58,(-)-N-Acetylneuraminic acid,KBGAYAKRZNYFFG,164,17,494,50,True,48.0,49.0,48.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,188,1-Naphthol,KJCVRFUGPWSIIH,164,17,494,19,True,2.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,192,n-Propyl gallate,ZTHYODDOHIVTJV,164,17,494,50,True,16.0,2.0,2.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,193,4'-Hydroxyflavanone,ZLHVIYHWWQYJID,164,17,494,50,True,22.0,37.0,35.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,212,2-(2-Ethoxyethyl)pyridine,BVFWKBCHXXZOJJ,164,17,494,50,True,1.0,1.0,6.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,213,Isopropyl 4-hydroxybenzoate,CMHMMKSPYOOVGI,164,17,494,50,True,2.0,2.0,2.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,214,1-(p-Tolyl)butan-1-one,CIYAESDXUTVTAL,164,17,494,50,True,11.0,16.0,21.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,215,Butyl 4-hydroxybenzoate,QFOHBWFCKVYLES,164,17,494,50,True,3.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,217,"4',5-Dihydroxy-7-methoxyflavanone",DJOJDHGQRNZXQQ,164,17,494,50,True,21.0,21.0,19.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,220,Bavachinin,VOCGSQHKPZSIKB,164,17,494,50,True,17.0,22.0,27.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,223,4-Methyl-3-phenylcoumarin,LQPDCTIPWIJXCR,164,17,494,38,True,13.0,8.0,4.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,224,3-Benzamidocoumarin,RXHSXTPNFVSJKM,164,17,494,46,False,,,,False,False,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,225,"4,7-Dimethyl-3-phenylcoumarin",WSPZLPMSNLJMGL,164,17,494,45,False,,,,False,False,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,227,"6,7-Dihydroxy-4-phenylcoumarin",TZRNJQYCOSMOJS,164,17,494,50,True,6.0,3.0,3.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,228,Genkwanin,JPMYFOBNRRGFNO,164,17,494,50,True,36.0,15.0,3.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,229,"DL-2,3-Diaminopropionic acid",PECYZEOJVXMISF,164,17,494,21,True,5.0,5.0,2.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,230,3'-Hydroxy-D-sepiapterin,QHNIUIKIRXYAAW,164,17,494,20,True,1.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,232,3-Hydroxymorphinan,IYNWSQDZXMGGGI,164,17,494,28,True,13.0,12.0,6.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,233,Levallorphan,OZYUPQUCAUTOBP,164,17,494,50,True,44.0,48.0,41.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,234,Dolasetron,UKTAZPQNNNJVKR,164,17,494,50,True,1.0,1.0,4.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,235,"7,8-Dihydroneopterin",YQIFAMYNGGOTFB,164,17,494,21,True,3.0,4.0,4.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,237,Flamprop-methyl,RBNIGDFIUWJJEV,164,17,494,36,True,5.0,4.0,7.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,240,2-Butoxypyridine,OFLSKXBALZCMCX,164,17,494,50,True,1.0,2.0,6.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,241,Fenbufen,ZPAKPRAICRBAOD,164,17,494,50,True,3.0,6.0,4.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,242,O-Acetyl-L-serine,VZXPDPZARILFQX,164,17,494,37,True,1.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,244,Amrinone,RNLQIBCLLYYYFJ,164,17,494,50,True,8.0,16.0,28.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,245,Citalopram,WSEQXVZVJXJVFP,164,17,494,41,True,1.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,246,Piperidolate,KTHVBAZBLKXIHZ,164,17,494,50,True,30.0,24.0,18.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,247,Dextrorphan,JAQUASYNZVUNQP,164,17,494,33,True,20.0,17.0,11.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,248,4-Hydroxybenzaldehyde,RGHHSNMVTDWUBI,164,17,494,18,True,4.0,6.0,6.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,249,5-Hydroxyisovanillic acid,UBXDWYFLYYJQFR,164,17,494,35,True,21.0,9.0,3.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,250,.beta.-Naphthol,JWAZRIHNYRIHIV,164,17,494,19,True,3.0,2.0,2.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,252,4-(Trifluoromethyl)benzylamine,PRDBLLIPPDOICK,164,17,494,37,True,12.0,6.0,2.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,254,Nabumetone,BLXXJMDCKKHMKV,164,17,494,27,True,3.0,2.0,2.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,255,Ochratoxin A,RWQKHEORZBHNRI,164,17,494,20,True,4.0,3.0,4.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,256,(-)-Verbenone,DCSCXTJOXBUFGB,164,17,494,50,False,,,,False,False,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,260,1-Naphthoic acid,LNETULKMXZVUST,164,17,494,43,True,4.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,263,"3',4'-Dihydroxyflavone",SRNPMQHYWVKBAV,164,17,494,50,True,12.0,12.0,10.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,264,"3',4'-Dihydroxy-.beta.-naphthoflavone",CHJYKPALQWHBFY,164,17,494,42,False,,,,False,False,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,266,"3,2'-Dimethoxyflavone",SJZIKJCJJAPNQI,164,17,494,50,False,,,,False,False,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,267,"2',3'-Dimethoxyflavone",OHEGMEUWGGBBHR,164,17,494,50,False,,,,False,False,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,268,2'-Hydroxy-3-methoxychalcone,UKFWQYIIRNXCEQ,164,17,494,50,True,5.0,2.0,2.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,270,"5,3',4'-Trihydroxyflavone",KXPQYWKYYDYOCQ,164,17,494,50,False,,,,False,False,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,271,"6,3',4'-Trihydroxyflavone",BYVNWEGWXASECK,164,17,494,50,False,,,,False,False,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,273,"7,3',4'-Trihydroxyflavone",PVFGJHYLIHMCQD,164,17,494,50,True,8.0,2.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,274,"7,3',4'-Trihydroxyisoflavone",DDKGKOOLFLYZDL,164,17,494,50,True,22.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,275,Norfenfluramine,MLBHFBKZUPLWBD,164,17,494,39,True,10.0,2.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,277,1-Benzylimidazole,KKKDZZRICRFGSD,164,17,494,50,True,4.0,8.0,8.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,283,"2,3-Naphthalenedicarboxaldehyde",ZIPLKLQPLOWLTM,164,17,494,50,True,5.0,3.0,2.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,288,"4'-Benzyloxy-5,7-dimethoxyflavone",AXGDCWQADWNGMH,164,17,494,31,False,,,,False,False,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,302,Amitriptyline,KRMDCWKBEZIMAB,164,17,494,38,True,9.0,10.0,5.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,303,Brompheniramine,ZDIGNSYAACHWNL,164,17,494,41,True,6.0,3.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,306,Fenfluramine,DBGIVFWFUFKIQN,164,17,494,14,True,4.0,3.0,4.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,308,(R)-(+)-Methcathinone,LPLLVINFLBSFRP,164,17,494,50,False,,,,False,False,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,309,Methoxetamine,JUWIQHNNBJANEB,164,17,494,50,False,,,,False,False,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,311,Picolinamide,IBBMAWULFFBRKK,164,17,494,42,True,12.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,314,"2-Hydroxy-2',3',4',5'-tetrachlorobiphenyl",ZOWMFUFAZVDOPN,164,17,494,9,False,,,,False,False,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,317,Dextrorphan O-.beta.-D-glucuronide,YQAUTKINOXBFCA,164,17,494,15,True,13.0,11.0,5.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,319,"1-(2,5-Difluoroanilino)cyclohexanecarbonitrile",NAHBJSGMRXBAQS,164,17,494,2,False,,,,False,False,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,321,Catharanthine,CMKFQVZJOWHHDV,164,17,494,50,True,38.0,39.0,38.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,322,Cinromide,LDCXGZCEMNMWIL,164,17,494,43,True,1.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,323,Doxepin,ODQWQRRAPPTVAG,164,17,494,30,True,4.0,3.0,2.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,327,Quinizarin,GUEIZVNYDFNHJU,164,17,494,22,True,12.0,8.0,7.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,331,"Estra-1,3,5(10),7-tetraene-3,17.beta.-diol",NLLMJANWPUQQTA,164,17,494,42,True,7.0,3.0,4.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,332,16.alpha.-Hydroxyestrone,WPOCIZJTELRQMF,164,17,494,48,True,17.0,5.0,2.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,333,Brazilin,UWHUTZOCTZJUKC,164,17,494,50,False,,,,False,False,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,336,Rubiadin,IRZTUXPRIUZXMP,164,17,494,50,False,,,,False,False,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,338,Ethyl trans-caffeate,WDKYDMULARNCIS,164,17,494,50,False,,,,False,False,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,341,4'-Methoxy-.alpha.-pyrrolidinopropiophenone,QJWOQBGBEFNYKB,164,17,494,50,False,,,,False,False,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,342,"2-Propenamide, 3-(4-chlorophenyl)-N-(3-methoxyphenyl)-",RYAMDQKWNKKFHD,164,17,494,42,True,1.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,344,Kartogenin,SLUINPGXGFUMLL,164,17,494,29,True,5.0,4.0,2.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,351,"Ethanone, 2-(3-methoxyphenyl)-1-(1-pentyl-1H-indol-3-yl)-",XZVYWLVYUAQEIM,164,17,494,50,True,1.0,3.0,2.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,352,"Ethanone, 1-[1-(2-cyclohexylethyl)-1H-indol-3-yl]-2-(3-methoxyphenyl)-",RPDBGECJZVHHKG,164,17,494,23,False,,,,False,False,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,353,1H-Indole-5-carboxamide,GQMYQEAXTITUAE,164,17,494,50,True,3.0,3.0,13.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,354,Necrostatin-1,TXUWMXQFNYDOEZ,164,17,494,50,True,4.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,355,"4-Methoxy-N,N-dimethylcathinone",LODCRGDBFNUJIZ,164,17,494,50,False,,,,False,False,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,360,Clenbuterol,STJMRWALKKWQGH,164,17,494,26,True,21.0,23.0,23.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,364,Clodinafop-propargyl,JBDHZKLJNAIJNC,164,17,494,19,True,1.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,368,3-Indoleacetic acid,SEOVTRFCIGRIMH,164,17,494,50,True,14.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,370,1H-Indole-3-propanoic acid,GOLXRNDWAUTYKT,164,17,494,50,True,15.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,371,Caffeic acid,QAIPRVGONGVQAS,164,17,494,50,True,28.0,31.0,21.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,372,N-Butyryl-DL-homoserine lactone,VFFNZZXXTGXBOG,164,17,494,50,True,9.0,9.0,2.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,373,"2,6-Dihydroxybenzoic acid",AKEUNCKRJATALU,164,17,494,29,True,7.0,6.0,7.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,374,Picolinic acid N-oxide,FHYMLBVGNFVFBT,164,17,494,28,True,9.0,10.0,9.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,375,Indole-6-carboxaldehyde,VSPBWOAEHQDXRD,164,17,494,50,True,11.0,19.0,21.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,376,trans-Cinnamic acid,WBYWAXJHAXSJNI,164,17,494,50,True,2.0,5.0,5.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,379,Indole-3-acetamide,ZOAMBXDOGPRZLP,164,17,494,50,True,10.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,381,9(11)-Didehydroestriol,ZWHFPHWLYUMTGY,164,17,494,48,False,,,,False,False,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,388,2-Aminobiphenyl,TWBPWBPGNQWFSJ,164,17,494,50,True,15.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,390,2-Pyridylthioamide,HYKQYVSNFPWGKQ,164,17,494,20,True,2.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,392,2-Pyridylamidoxime,XKXCGXSHUNVFCT,164,17,494,50,True,1.0,1.0,2.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,393,3-Bromo-5-phenylsalicylic acid,XVZSXNULHSIRCQ,164,17,494,10,False,,,,False,False,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,395,(.+/-.)-4-Fluoroephedrine,SPEQHEOLWDGWML,164,17,494,50,False,,,,False,False,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,396,(.+/-.)-11-Hydroxy-.DELTA.9-tetrahydrocannabinol,YCBKSSAWEUDACY,164,17,494,50,True,7.0,7.0,8.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,400,Splitomicin,ISFPDBUKMJDAJH,164,17,494,50,True,40.0,40.0,21.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,401,N-Phthalyl-L-tryptophan,HPTXLHAHLXOAKV,164,17,494,26,False,,,,False,False,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,406,"9H-Xanthene-9-propanoic acid, .alpha.-amino-.alpha.-[(1S,2S)-2-carboxycyclopropyl]-, (.alpha.S)-",VLZBRVJVCCNPRJ,164,17,494,50,True,23.0,15.0,14.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,413,"Glycine, N-2-naphthalenyl-, 2-[(3,5-dibromo-2,4-dihydroxyphenyl)methylene]hydrazide",RMBDLOATEPYBSI,164,17,494,0,False,,,,False,False,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,414,6-Methoxynaphthaleneacetic acid,PHJFLPMVEFKEPL,164,17,494,50,True,13.0,14.0,13.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,415,4-Biphenylthiocarboxamide,HYDDAJTWPBWUOB,164,17,494,20,True,2.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,416,Atazanavir,AXRYRYVKAWYZBR,164,17,494,10,True,3.0,3.0,4.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,417,"Carbamic acid, N-(9H-xanthen-9-ylcarbonyl)-, butyl ester",RQBUXEUMZZQUFY,164,17,494,50,True,14.0,14.0,11.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,419,"1-Butanol, 2-[[9-(1-methylethyl)-6-[[[4-(2-pyridinyl)phenyl]methyl]amino]-9H-purin-2-yl]amino]-, (2R)-",HOCBJBNQIQQQGT,164,17,494,13,True,8.0,6.0,2.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,422,"Carbamic acid, (6-phenylhexyl)-, 3'-(aminocarbonyl)[1,1'-biphenyl]-3-yl ester",JMLPLSJWSHVJLP,164,17,494,36,False,,,,False,False,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,425,Bisdemethoxycurcumin,PREBVFJICNPEKM,164,17,494,33,True,1.0,11.0,16.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,427,Acetyleugenol,SCCDQYPEOIRVGX,164,17,494,50,True,31.0,32.0,39.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,434,Ethyl gallate,VFPFQHQNJCMNBZ,164,17,494,33,True,23.0,10.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,436,"1,4-Anthraquinone",LSOTZYUVGZKSHR,164,17,494,40,True,1.0,3.0,4.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,437,3-Hydroxybiphenyl,UBXYXCRCOKCZIT,164,17,494,37,True,16.0,2.0,2.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,441,5-Hydroxyisophthalic acid,QNVNLUSHGRBCLO,164,17,494,22,True,9.0,11.0,9.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,442,Inositol hexanicotinate,MFZCIDXOLLEMOO,164,17,494,1,True,1.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,443,Isoeugenyl acetate,IUSBVFZKQJGVEP,164,17,494,50,True,35.0,38.0,41.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,445,2-Methylanthraquinone,NJWGQARXZDRHCD,164,17,494,42,True,35.0,27.0,20.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,446,3-O-Methylgallic acid,KWCCUYSXAYTNKA,164,17,494,35,True,15.0,1.0,2.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,455,"Acetamide, 2-[([1,1'-biphenyl]-4-ylsulfonyl)(1-methylethoxy)amino]-N-hydroxy-",PHGLPDURIUEELR,164,17,494,38,False,,,,False,False,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,456,"Cyclohexanone, 2-(ethylamino)-2-phenyl-",IDLSBAANXISGEI,164,17,494,50,True,6.0,4.0,3.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,459,Clencyclohexerol,DKFLKXDTRUWFDL,164,17,494,44,True,33.0,39.0,39.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,460,5-Fluoropentylindole,CRRVPRNYXWCQPP,164,17,494,12,False,,,,False,False,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,461,"2,4-Thiazolidinedione, 5-[[6-[(2-fluorophenyl)methoxy]-2-naphthalenyl]methyl]-",PKWDZWYVIHVNKS,164,17,494,21,True,1.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,472,rac-Didemethylcitalopram,RKUKMUWCRLRPEJ,164,17,494,36,True,1.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,474,.DELTA.9(11)-Estradiol,FABGTKBXHAEVKL,164,17,494,42,True,5.0,1.0,2.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,475,rac-.alpha.-Methylkynurenine,PQEUTGZYJPUCNX,164,17,494,50,False,,,,False,False,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,476,1-Methyl-3-nicotinoylpyrrolidine,ARYQLVJXQFGHLA,164,17,494,50,True,2.0,2.0,2.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,482,4'-Methoxyflavanone,QIUYUYOXCGBABP,164,17,494,50,True,15.0,25.0,28.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,490,Ethyl 3-hydroxybenzoate,MWSMNBYIEBRXAL,164,17,494,50,True,4.0,2.0,4.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,491,Fustin,FNUPUYFWZXZMIE,164,17,494,50,True,27.0,2.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,492,Sulfuretin,RGNXWPVNPFAADO,164,17,494,50,True,22.0,25.0,25.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,504,"4,6-Dimethyl-3-phenylcoumarin",ODUIAYFLNZAILA,164,17,494,45,False,,,,False,False,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,506,Clodinafop,YUIKUTLBPMDDNQ,164,17,494,22,True,1.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,508,1-Acetylindole,UUCUQJHYUPXDHN,164,17,494,50,True,6.0,4.0,6.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,510,Alizarin,RGCKGOZRHPZPFP,164,17,494,22,True,11.0,9.0,6.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,511,Coumaphos-O-analog,FDYMERLIFOUIRZ,164,17,494,14,True,1.0,1.0,4.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,521,8-Methyl-2-(trifluoromethyl)quinolin-4-ol,HLPDICBGZTVELB,164,17,494,26,True,4.0,5.0,3.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,522,"10,10'-Oxybis(phenoxarsine)",VCRZAKVGPJFABU,164,17,494,3,True,2.0,2.0,2.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,523,"Phenol, 4-[[4-(4-morpholinyl)butyl]thio]-",YHKNLUTUXZDOQI,164,17,494,30,False,,,,False,False,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,524,"3,4-Dihydroxycinnamic acid (L-alanine methyl ester) amide",WFBBISJLIGYSGF,164,17,494,38,False,,,,False,False,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,525,3-Fluorophenmetrazine,VHYVKJAQSJCYCK,164,17,494,50,True,11.0,12.0,17.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,526,Methoxmetamine,ZGQWDAOLJNAADS,164,17,494,50,False,,,,False,False,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,528,Anthralin,YUTJCNNFTOIOGT,164,17,494,50,True,39.0,38.0,32.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,530,Mepronil,BCTQJXQXJVLSIG,164,17,494,50,True,2.0,2.0,2.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,532,Tyr-Gln,UBAQSAUDKMIEQZ,164,17,494,30,True,2.0,3.0,5.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,1,547,Tyr-Lys,AOLHUMAVONBBEZ,164,17,494,22,True,1.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,627063,627063,346.8693859577179
+0,2,157,Tyr-Arg,JXNRXNCCROJZFB,32,4,119,12,True,1.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,14282,14282,10.077356100082397
+0,2,159,Ala-Ser-Arg,VJVQKGYHIZPSNS,32,4,119,25,False,,,,False,False,MFP2-bits,official_parallel_subprocess,14282,14282,10.077356100082397
+0,2,162,Asp-Gly-Arg,YNCHFVRXEQFPBY,32,4,119,24,False,,,,False,False,MFP2-bits,official_parallel_subprocess,14282,14282,10.077356100082397
+0,2,163,Asp-Ile-Arg,GBSUGIXJAAKZOW,32,4,119,14,False,,,,False,False,MFP2-bits,official_parallel_subprocess,14282,14282,10.077356100082397
+0,2,164,Asp-Leu-Arg,SCQIQCWLOMOEFP,32,4,119,14,False,,,,False,False,MFP2-bits,official_parallel_subprocess,14282,14282,10.077356100082397
+0,2,165,Asp-Pro-Arg,ZKAOJVJQGVUIIU,32,4,119,13,False,,,,False,False,MFP2-bits,official_parallel_subprocess,14282,14282,10.077356100082397
+0,2,166,Asp-Ser-Arg,ZBYLEBZCVKLPCY,32,4,119,25,False,,,,False,False,MFP2-bits,official_parallel_subprocess,14282,14282,10.077356100082397
+0,2,167,Asp-Thr-Arg,MJJIHRWNWSQTOI,32,4,119,41,False,,,,False,False,MFP2-bits,official_parallel_subprocess,14282,14282,10.077356100082397
+0,2,169,Glu-Phe-Arg,KJBGAZSLZAQDPV,32,4,119,11,False,,,,False,False,MFP2-bits,official_parallel_subprocess,14282,14282,10.077356100082397
+0,2,170,Glu-Ile-Arg,QIQABBIDHGQXGA,32,4,119,9,False,,,,False,False,MFP2-bits,official_parallel_subprocess,14282,14282,10.077356100082397
+0,2,171,Glu-Leu-Arg,VSRCAOIHMGCIJK,32,4,119,9,False,,,,False,False,MFP2-bits,official_parallel_subprocess,14282,14282,10.077356100082397
+0,2,172,Glu-Thr-Arg,TWYSSILQABLLME,32,4,119,20,False,,,,False,False,MFP2-bits,official_parallel_subprocess,14282,14282,10.077356100082397
+0,2,173,Glu-Tyr-Arg,NTHIHAUEXVTXQG,32,4,119,17,False,,,,False,False,MFP2-bits,official_parallel_subprocess,14282,14282,10.077356100082397
+0,2,174,Phe-Arg-Arg,LZDIENNKWVXJMX,32,4,119,6,False,,,,False,False,MFP2-bits,official_parallel_subprocess,14282,14282,10.077356100082397
+0,2,175,Gly-Val-Arg,GJHWILMUOANXTG,32,4,119,11,False,,,,False,False,MFP2-bits,official_parallel_subprocess,14282,14282,10.077356100082397
+0,2,176,Ile-Arg-Arg,HLYBGMZJVDHJEO,32,4,119,3,False,,,,False,False,MFP2-bits,official_parallel_subprocess,14282,14282,10.077356100082397
+0,2,179,Ser-Arg-Arg,NLQUOHDCLSFABG,32,4,119,12,False,,,,False,False,MFP2-bits,official_parallel_subprocess,14282,14282,10.077356100082397
+0,2,180,Thr-Arg-Arg,XYEXCEPTALHNEV,32,4,119,6,False,,,,False,False,MFP2-bits,official_parallel_subprocess,14282,14282,10.077356100082397
+0,2,182,Tyr-Arg-Arg,WTXQBCCKXIKKHB,32,4,119,5,False,,,,False,False,MFP2-bits,official_parallel_subprocess,14282,14282,10.077356100082397
+0,2,183,Tyr-Val-Arg,MJUTYRIMFIICKL,32,4,119,13,False,,,,False,False,MFP2-bits,official_parallel_subprocess,14282,14282,10.077356100082397
+0,2,538,Gly-Pro-Arg,JYPCXBJRLBHWME,32,4,119,14,False,,,,False,False,MFP2-bits,official_parallel_subprocess,14282,14282,10.077356100082397
+0,2,540,Asp-Arg,PSZNHSNIGMJYOZ,32,4,119,11,True,2.0,2.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,14282,14282,10.077356100082397
+0,2,541,Phe-Arg,OZILORBBPKKGRI,32,4,119,15,True,1.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,14282,14282,10.077356100082397
+0,2,542,Leu-Arg,SENJXOPIZNYLHU,32,4,119,4,True,3.0,2.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,14282,14282,10.077356100082397
+0,2,543,Pro-Arg,HMNSRTLZAJHSIK,32,4,119,3,True,1.0,1.0,2.0,True,True,MFP2-bits,official_parallel_subprocess,14282,14282,10.077356100082397
+0,2,544,Ser-Arg,RZEQTVHJZCIUBT,32,4,119,5,True,1.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,14282,14282,10.077356100082397
+0,2,546,Val-Arg,IBIDRSSEHFLGSD,32,4,119,5,True,1.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,14282,14282,10.077356100082397
+0,2,548,Cys-Arg,RGTVXXNMOGHRAY,32,4,119,40,True,1.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,14282,14282,10.077356100082397
+0,3,96,Leu-Met-Arg,PKKMDPNFGULLNQ,25,3,76,21,False,,,,False,False,MFP2-bits,official_parallel_subprocess,27356,27356,18.81774377822876
+0,3,97,Pro-Met-Arg,BARPGRUZBKFJMA,25,3,76,34,True,1.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,27356,27356,18.81774377822876
+0,3,101,Val-Val-Arg,RTJPAGFXOWEBAI,25,3,76,9,False,,,,False,False,MFP2-bits,official_parallel_subprocess,27356,27356,18.81774377822876
+0,3,105,Ala-Ala-Arg,HHGYNJRJIINWAK,25,3,76,10,False,,,,False,False,MFP2-bits,official_parallel_subprocess,27356,27356,18.81774377822876
+0,3,106,Asp-Ala-Arg,UWMIZBCTVWVMFI,25,3,76,11,False,,,,False,False,MFP2-bits,official_parallel_subprocess,27356,27356,18.81774377822876
+0,3,107,Leu-Ala-Arg,LJHGALIOHLRRQN,25,3,76,3,False,,,,False,False,MFP2-bits,official_parallel_subprocess,27356,27356,18.81774377822876
+0,3,108,Pro-Ala-Arg,VXCHGLYSIOOZIS,25,3,76,14,False,,,,False,False,MFP2-bits,official_parallel_subprocess,27356,27356,18.81774377822876
+0,3,109,Thr-Ala-Arg,MQCPGOZXFSYJPS,25,3,76,8,False,,,,False,False,MFP2-bits,official_parallel_subprocess,27356,27356,18.81774377822876
+0,3,110,Met-Gly-Arg,FYRUJIJAUPHUNB,25,3,76,50,False,,,,False,False,MFP2-bits,official_parallel_subprocess,27356,27356,18.81774377822876
+0,3,111,Val-Gly-Arg,JTWIMNMUYLQNPI,25,3,76,11,False,,,,False,False,MFP2-bits,official_parallel_subprocess,27356,27356,18.81774377822876
+0,3,112,Met-Ala-Arg,MVQGZYIOMXAFQG,25,3,76,45,False,,,,False,False,MFP2-bits,official_parallel_subprocess,27356,27356,18.81774377822876
+0,3,113,Val-Ala-Arg,DDRBQONWVBDQOY,25,3,76,12,False,,,,False,False,MFP2-bits,official_parallel_subprocess,27356,27356,18.81774377822876
+0,3,114,Met-Ser-Arg,XPVCDCMPKCERFT,25,3,76,23,False,,,,False,False,MFP2-bits,official_parallel_subprocess,27356,27356,18.81774377822876
+0,3,115,Asn-Ser-Arg,OOXUBGLNDRGOKT,25,3,76,14,False,,,,False,False,MFP2-bits,official_parallel_subprocess,27356,27356,18.81774377822876
+0,3,116,Val-Ser-Arg,AJNUKMZFHXUBMK,25,3,76,12,False,,,,False,False,MFP2-bits,official_parallel_subprocess,27356,27356,18.81774377822876
+0,3,118,Val-Pro-Arg,YTNGABPUXFEOGU,25,3,76,28,False,,,,False,False,MFP2-bits,official_parallel_subprocess,27356,27356,18.81774377822876
+0,3,119,Cys-Val-Arg,MHYHLWUGWUBUHF,25,3,76,45,False,,,,False,False,MFP2-bits,official_parallel_subprocess,27356,27356,18.81774377822876
+0,3,121,Asn-Ile-Arg,OLISTMZJGQUOGS,25,3,76,10,False,,,,False,False,MFP2-bits,official_parallel_subprocess,27356,27356,18.81774377822876
+0,3,122,Ala-Val-Arg,IYKVSFNGSWTTNZ,25,3,76,12,False,,,,False,False,MFP2-bits,official_parallel_subprocess,27356,27356,18.81774377822876
+0,3,125,Leu-Val-Arg,FBNPMTNBFFAMMH,25,3,76,8,False,,,,False,False,MFP2-bits,official_parallel_subprocess,27356,27356,18.81774377822876
+0,3,126,Pro-Val-Arg,WWXNZNWZNZPDIF,25,3,76,28,False,,,,False,False,MFP2-bits,official_parallel_subprocess,27356,27356,18.81774377822876
+0,3,127,Asn-Leu-Arg,NLRJGXZWTKXRHP,25,3,76,10,False,,,,False,False,MFP2-bits,official_parallel_subprocess,27356,27356,18.81774377822876
+0,4,63,Ile-Arg,HYXQKVOADYPQEA,21,3,68,4,True,3.0,3.0,4.0,True,True,MFP2-bits,official_parallel_subprocess,30858,30858,20.3371319770813
+0,4,65,Cys-Asp-Arg,FWYBFUDWUUFLDN,21,3,68,47,False,,,,False,False,MFP2-bits,official_parallel_subprocess,30858,30858,20.3371319770813
+0,4,68,Asp-Asp-Arg,JGDBHIVECJGXJA,21,3,68,36,False,,,,False,False,MFP2-bits,official_parallel_subprocess,30858,30858,20.3371319770813
+0,4,69,Glu-Asp-Arg,QPRZKNOOOBWXSU,21,3,68,28,False,,,,False,False,MFP2-bits,official_parallel_subprocess,30858,30858,20.3371319770813
+0,4,70,Phe-Asp-Arg,XMPUYNHKEPFERE,21,3,68,19,False,,,,False,False,MFP2-bits,official_parallel_subprocess,30858,30858,20.3371319770813
+0,4,72,Gly-Asp-Arg,IWAXHBCACVWNHT,21,3,68,24,False,,,,False,False,MFP2-bits,official_parallel_subprocess,30858,30858,20.3371319770813
+0,4,75,Ile-Asp-Arg,UMYZBHKAVTXWIW,21,3,68,14,False,,,,False,False,MFP2-bits,official_parallel_subprocess,30858,30858,20.3371319770813
+0,4,83,Met-Asp-Arg,SQUTUWHAAWJYES,21,3,68,29,False,,,,False,False,MFP2-bits,official_parallel_subprocess,30858,30858,20.3371319770813
+0,4,88,Pro-Asp-Arg,JARJPEMLQAWNBR,21,3,68,13,False,,,,False,False,MFP2-bits,official_parallel_subprocess,30858,30858,20.3371319770813
+0,4,91,Ser-Asp-Arg,CNIIKZQXBBQHCX,21,3,68,25,False,,,,False,False,MFP2-bits,official_parallel_subprocess,30858,30858,20.3371319770813
+0,4,93,Thr-Asp-Arg,VXMHQKHDKCATDV,21,3,68,41,False,,,,False,False,MFP2-bits,official_parallel_subprocess,30858,30858,20.3371319770813
+0,4,103,Tyr-Asp-Arg,BARBHMSSVWPKPZ,21,3,68,14,False,,,,False,False,MFP2-bits,official_parallel_subprocess,30858,30858,20.3371319770813
+0,4,136,Ser-Ala-Arg,FIXILCYTSAUERA,21,3,68,25,False,,,,False,False,MFP2-bits,official_parallel_subprocess,30858,30858,20.3371319770813
+0,4,141,Ser-Val-Arg,IAOHCSQDQDWRQU,21,3,68,12,False,,,,False,False,MFP2-bits,official_parallel_subprocess,30858,30858,20.3371319770813
+0,4,142,Ser-Leu-Arg,QYSFWUIXDFJUDW,21,3,68,6,False,,,,False,False,MFP2-bits,official_parallel_subprocess,30858,30858,20.3371319770813
+0,4,143,Ser-Ile-Arg,YIUWWXVTYLANCJ,21,3,68,6,True,1.0,2.0,5.0,True,True,MFP2-bits,official_parallel_subprocess,30858,30858,20.3371319770813
+0,4,147,Ser-Glu-Arg,PVDTYLHUWAEYGY,21,3,68,41,False,,,,False,False,MFP2-bits,official_parallel_subprocess,30858,30858,20.3371319770813
+0,4,149,Ser-Met-Arg,RQXDSYQXBCRXBT,21,3,68,23,False,,,,False,False,MFP2-bits,official_parallel_subprocess,30858,30858,20.3371319770813
+0,5,16,"Lysine, butyl ester",MFSFRBQXAOAROL,14,2,42,38,False,,,,False,False,MFP2-bits,official_parallel_subprocess,9860,9860,7.260943174362183
+0,5,44,Gln-Gly,JEFZIKRIDLHOIF,14,2,42,39,True,2.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,9860,9860,7.260943174362183
+0,5,66,Cys-Lys-Lys,KGIHMGPYGXBYJJ,14,2,42,34,False,,,,False,False,MFP2-bits,official_parallel_subprocess,9860,9860,7.260943174362183
+0,5,77,Lys-Glu-Lys,IMAKMJCBYCSMHM,14,2,42,8,False,,,,False,False,MFP2-bits,official_parallel_subprocess,9860,9860,7.260943174362183
+0,5,78,Lys-Ile-Lys,QOJDBRUCOXQSSK,14,2,42,1,False,,,,False,False,MFP2-bits,official_parallel_subprocess,9860,9860,7.260943174362183
+0,5,80,Lys-Ser-Lys,ZUGVARDEGWMMLK,14,2,42,1,False,,,,False,False,MFP2-bits,official_parallel_subprocess,9860,9860,7.260943174362183
+0,5,81,Lys-Val-Lys,NYTDJEZBAAFLLG,14,2,42,1,False,,,,False,False,MFP2-bits,official_parallel_subprocess,9860,9860,7.260943174362183
+0,5,94,Lys-Thr-Lys,YKBSXQFZWFXFIB,14,2,42,2,False,,,,False,False,MFP2-bits,official_parallel_subprocess,9860,9860,7.260943174362183
+0,5,98,Lys-Met-Lys,MTBLFIQZECOEBY,14,2,42,12,False,,,,False,False,MFP2-bits,official_parallel_subprocess,9860,9860,7.260943174362183
+0,5,187,N.alpha.-Acetyl-L-lysine,VEYYWZRYIYDQJM,14,2,42,44,True,18.0,16.0,4.0,True,True,MFP2-bits,official_parallel_subprocess,9860,9860,7.260943174362183
+0,5,201,Methylphenidate,DUGOZIWVEXMGBE,14,2,42,50,False,,,,False,False,MFP2-bits,official_parallel_subprocess,9860,9860,7.260943174362183
+0,5,205,Procyclidine,WYDUSKDSKCASEF,14,2,42,14,True,2.0,3.0,3.0,True,True,MFP2-bits,official_parallel_subprocess,9860,9860,7.260943174362183
+0,6,218,Lauroyl-L-carnitine,FUJLYHJROOYKRA,12,2,48,5,False,,,,False,False,MFP2-bits,official_parallel_subprocess,8708,8708,6.806987762451172
+0,6,219,Palmitoylcarnitine,XOMRRQXKHMYMOC,12,2,48,0,False,,,,False,False,MFP2-bits,official_parallel_subprocess,8708,8708,6.806987762451172
+0,6,339,Octanoylcarnitine,CXTATJFJDMJMIY,12,2,48,12,False,,,,False,False,MFP2-bits,official_parallel_subprocess,8708,8708,6.806987762451172
+0,6,348,Decanoyl-L-carnitine,LZOSYCMHQXPBFU,12,2,48,6,False,,,,False,False,MFP2-bits,official_parallel_subprocess,8708,8708,6.806987762451172
+0,6,349,Myristoyl-L-carnitine,PSHXNVGSVNEJBD,12,2,48,7,False,,,,False,False,MFP2-bits,official_parallel_subprocess,8708,8708,6.806987762451172
+0,6,382,.beta.-Estradiol 17-propionate,PQCRZWCSVWBYSC,12,2,48,42,True,6.0,3.0,3.0,True,True,MFP2-bits,official_parallel_subprocess,8708,8708,6.806987762451172
+0,6,407,"Benzeneethanamine, 3,5-dimethoxy-.alpha.-methyl-4-propoxy-",KKMCHCCXGKYEKJ,12,2,48,50,True,12.0,19.0,44.0,True,True,MFP2-bits,official_parallel_subprocess,8708,8708,6.806987762451172
+0,6,449,(R)-Butyrylcarnitine,QWYFHHGCZUCMBN,12,2,48,50,False,,,,False,False,MFP2-bits,official_parallel_subprocess,8708,8708,6.806987762451172
+0,6,450,Hexanoyl-L-carnitine,VVPRQWTYSNDTEA,12,2,48,24,False,,,,False,False,MFP2-bits,official_parallel_subprocess,8708,8708,6.806987762451172
+0,6,453,Stearoyl-L-carnitine,FNPHNLNTJNMAEE,12,2,48,1,False,,,,False,False,MFP2-bits,official_parallel_subprocess,8708,8708,6.806987762451172
+0,7,17,"L-Phenylalanine, butyl ester",VSFDFIPJWOBYLZ,9,1,12,50,False,,,,False,False,MFP2-bits,official_parallel_subprocess,19721,19721,11.939963817596436
+0,7,20,"Tyrosine, butyl ester",DCAUNIBIBOKWOZ,9,1,12,50,False,,,,False,False,MFP2-bits,official_parallel_subprocess,19721,19721,11.939963817596436
+0,7,21,"p-Fluorophenylalanine, butyl ester",CKGLWHWHYHOWQJ,9,1,12,50,False,,,,False,False,MFP2-bits,official_parallel_subprocess,19721,19721,11.939963817596436
+0,7,22,"N-Acetylphenylalanine, butyl ester",SURCSYZOBGEWTF,9,1,12,50,False,,,,False,False,MFP2-bits,official_parallel_subprocess,19721,19721,11.939963817596436
+0,7,26,"3,4-Dihydroxyphenylalanine, butyl ester",QDMOINLDXCZCEK,9,1,12,50,False,,,,False,False,MFP2-bits,official_parallel_subprocess,19721,19721,11.939963817596436
+0,7,28,"N-Acetyltyrosine, butyl ester",CTJGJXAREXCTJW,9,1,12,50,False,,,,False,False,MFP2-bits,official_parallel_subprocess,19721,19721,11.939963817596436
+0,7,35,2-Hydroxyphenylacetic acid,CCVYRRGZDBSHFU,9,1,12,50,False,,,,False,False,MFP2-bits,official_parallel_subprocess,19721,19721,11.939963817596436
+0,7,312,"2-Amino-4,6-dinitrotoluene",IEEJAAUSLQCGJH,9,1,12,21,True,5.0,6.0,2.0,True,True,MFP2-bits,official_parallel_subprocess,19721,19721,11.939963817596436
+0,8,276,Genipin,AZKVWQKMDGGDSV,9,1,21,50,True,6.0,11.0,16.0,True,True,MFP2-bits,official_parallel_subprocess,10666,10666,7.966322898864746
+0,8,533,Gln-Val,MRVYVEQPNDSWLH,9,1,21,18,True,1.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,10666,10666,7.966322898864746
+0,8,549,Gln-Cys,XIPZDANNDPMZGQ,9,1,21,36,True,1.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,10666,10666,7.966322898864746
+0,8,550,Gln-Leu,ARPVSMCNIDAQBO,9,1,21,18,True,5.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,10666,10666,7.966322898864746
+0,8,552,Gln-Glu,OWOFCNWTMWOOJJ,9,1,21,42,True,2.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,10666,10666,7.966322898864746
+0,8,553,Gln-Ile,XITLYYAIPBBHPX,9,1,21,18,True,3.0,2.0,3.0,True,True,MFP2-bits,official_parallel_subprocess,10666,10666,7.966322898864746
+0,8,554,Gln-Asp,SSHIXEILTLPAQT,9,1,21,36,True,4.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,10666,10666,7.966322898864746
+0,8,555,Gln-Pro,NJMYZEJORPYOTO,9,1,21,22,True,1.0,1.0,2.0,True,True,MFP2-bits,official_parallel_subprocess,10666,10666,7.966322898864746
+0,9,85,Met-Val-Arg,ALTHVGNGGZZSAC,7,1,8,35,False,,,,False,False,MFP2-bits,official_parallel_subprocess,1411,1411,3.506436586380005
+0,9,87,Asn-Val-Arg,XLDMSQYOYXINSZ,7,1,8,14,False,,,,False,False,MFP2-bits,official_parallel_subprocess,1411,1411,3.506436586380005
+0,9,100,Val-Arg-Arg,WGHVMKFREWGCGR,7,1,8,3,False,,,,False,False,MFP2-bits,official_parallel_subprocess,1411,1411,3.506436586380005
+0,9,102,Trp-Arg-Arg,QNMIVTOQXUSGLN,7,1,8,5,False,,,,False,False,MFP2-bits,official_parallel_subprocess,1411,1411,3.506436586380005
+0,9,124,Glu-Val-Arg,MLILEEIVMRUYBX,7,1,8,14,False,,,,False,False,MFP2-bits,official_parallel_subprocess,1411,1411,3.506436586380005
+0,9,150,Thr-Glu-Arg,FHDLKMFZKRUQCE,7,1,8,20,False,,,,False,False,MFP2-bits,official_parallel_subprocess,1411,1411,3.506436586380005
+0,10,155,His-Asn,WSDOHRLQDGAOGU,6,1,11,22,True,1.0,1.0,2.0,True,True,MFP2-bits,official_parallel_subprocess,2702,2702,4.1521241664886475
+0,10,156,His-Trp,FBTYOQIYBULKEH,6,1,11,26,True,1.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,2702,2702,4.1521241664886475
+0,10,177,Lys-His-Lys,FGMHXLULNHTPID,6,1,11,3,False,,,,False,False,MFP2-bits,official_parallel_subprocess,2702,2702,4.1521241664886475
+0,10,536,"TRH, free acid",ITYONPBTNRIEBA,6,1,11,15,False,,,,False,False,MFP2-bits,official_parallel_subprocess,2702,2702,4.1521241664886475
+0,10,537,[Glu1] TRH,CDKISEMTCDQDIY,6,1,11,21,False,,,,False,False,MFP2-bits,official_parallel_subprocess,2702,2702,4.1521241664886475
+0,11,7,Heptanoylcarnitine,VDPCTFWULDLKHT,5,1,10,16,False,,,,False,False,MFP2-bits,official_parallel_subprocess,10066,10066,7.3571789264678955
+0,11,12,2-Methylbutyryl-L-carnitine,IHCPDBBYTYJYIL,5,1,10,50,False,,,,False,False,MFP2-bits,official_parallel_subprocess,10066,10066,7.3571789264678955
+0,11,13,Valerylcarnitine,VSNFQQXVMPSASB,5,1,10,50,False,,,,False,False,MFP2-bits,official_parallel_subprocess,10066,10066,7.3571789264678955
+0,11,40,Acetyl-L-carnitine,RDHQFKQIGNGIED,5,1,10,50,False,,,,False,False,MFP2-bits,official_parallel_subprocess,10066,10066,7.3571789264678955
+0,12,71,Phe-Lys-Lys,PEFJUUYFEGBXFA,5,1,10,9,False,,,,False,False,MFP2-bits,official_parallel_subprocess,186,186,2.826124668121338
+0,12,74,Gly-Lys-Lys,VEPBEGNDJYANCF,5,1,10,1,False,,,,False,False,MFP2-bits,official_parallel_subprocess,186,186,2.826124668121338
+0,12,92,Ser-Lys-Lys,CRJZZXMAADSBBQ,5,1,10,1,False,,,,False,False,MFP2-bits,official_parallel_subprocess,186,186,2.826124668121338
+0,12,104,Tyr-Lys-Lys,ZOBLBMGJKVJVEV,5,1,10,13,False,,,,False,False,MFP2-bits,official_parallel_subprocess,186,186,2.826124668121338
+0,13,128,Trp(Dioxidation)-Phe,MEIKMCKTWJGJGY,5,1,10,33,False,,,,False,False,MFP2-bits,official_parallel_subprocess,2855,2855,4.168174505233765
+0,13,129,Trp(Dioxidation)-Gly,BZQNDERXIFZEHW,5,1,10,27,False,,,,False,False,MFP2-bits,official_parallel_subprocess,2855,2855,4.168174505233765
+0,13,130,Trp(Dioxidation)-Ile,HEQSOYLBVJDXJJ,5,1,10,14,False,,,,False,False,MFP2-bits,official_parallel_subprocess,2855,2855,4.168174505233765
+0,13,133,Trp(Dioxidation)-Val,WQBSSPNNRJKVFB,5,1,10,14,False,,,,False,False,MFP2-bits,official_parallel_subprocess,2855,2855,4.168174505233765
+0,14,345,Epimedin A,SVXJDTNFJXKATR,5,1,5,5,True,5.0,3.0,3.0,True,True,MFP2-bits,official_parallel_subprocess,86,86,2.794363498687744
+0,14,346,Epimedin B,OCZZCFAOOWZSRX,5,1,5,2,True,2.0,2.0,2.0,True,True,MFP2-bits,official_parallel_subprocess,86,86,2.794363498687744
+0,14,347,Epimedin C,ULZLIYVOYYQJRO,5,1,5,3,True,3.0,2.0,2.0,True,True,MFP2-bits,official_parallel_subprocess,86,86,2.794363498687744
+0,14,497,Ciodrin,XXXSILNSXNPGKG,5,1,5,50,True,6.0,6.0,7.0,True,True,MFP2-bits,official_parallel_subprocess,86,86,2.794363498687744
+0,15,15,"Glutamic acid, dibutyl ester",CDJRDJWEPBONIV,4,1,3,24,False,,,,False,False,MFP2-bits,official_parallel_subprocess,956,956,3.225463390350342
+0,15,29,"N-Acetylaspartic acid, dibutyl ester",YSTQYNVOJZDPDQ,4,1,3,20,False,,,,False,False,MFP2-bits,official_parallel_subprocess,956,956,3.225463390350342
+0,15,385,Thiacloprid,HOKKPVIRMVDYPB,4,1,3,19,True,5.0,2.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,956,956,3.225463390350342
+0,16,216,Chlortoluron,JXCGFZXSOMJFOA,4,1,6,50,True,6.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,4670,4670,4.7538673877716064
+0,16,500,Fenothiocarb,HMIBKHHNXANVHR,4,1,6,36,True,1.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,4670,4670,4.7538673877716064
+0,16,501,Oxamyl oxime,KIDWGGCIROEJJW,4,1,6,32,True,1.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,4670,4670,4.7538673877716064
+0,17,259,N-Palmitoyl-D-erythro-dihydroceramide-1-phosphate,ILHPMPAVRAZOJB,4,1,5,1,True,1.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,16,16,2.7431483268737793
+0,17,315,N-Myristoylsphinganine,UDTSZXVRDXQARY,4,1,5,3,True,1.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,16,16,2.7431483268737793
+0,17,529,N-Stearoylsphinganine,KZTJQXAANJHSCE,4,1,5,2,True,1.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,16,16,2.7431483268737793
+0,18,296,Blood Group H Trisaccharide,PHTAQVMXYWFMHF,4,1,4,11,True,4.0,6.0,7.0,True,True,MFP2-bits,official_parallel_subprocess,264,264,2.8777408599853516
+0,18,318,Lewis A trisaccharide,HHQLEBOUBWWITP,4,1,4,11,True,4.0,3.0,2.0,True,True,MFP2-bits,official_parallel_subprocess,264,264,2.8777408599853516
+0,18,516,Blood Group A Trisaccharide,HUMHYXGDUOGHTG,4,1,4,11,False,,,,False,False,MFP2-bits,official_parallel_subprocess,264,264,2.8777408599853516
+0,19,5,Aminodiphenylmethane,MGHPNCMVUAKAIE,3,1,2,50,False,,,,False,False,MFP2-bits,official_parallel_subprocess,81,81,2.794257164001465
+0,19,204,Adrafinil,CGNMLOKEMNBUAI,3,1,2,31,True,28.0,2.0,2.0,True,True,MFP2-bits,official_parallel_subprocess,81,81,2.794257164001465
+0,20,25,"Homoserine, butyl ester",SIOGIFNUZZLGSH,3,1,2,38,False,,,,False,False,MFP2-bits,official_parallel_subprocess,77,77,2.776005744934082
+0,20,412,Buthionine sulfoximine,KJQFBVYMGADDTQ,3,1,2,39,True,22.0,4.0,3.0,True,True,MFP2-bits,official_parallel_subprocess,77,77,2.776005744934082
+0,21,45,3-Hydroxybenzoic acid,IJFXRHURBJZNAO,3,1,2,23,True,11.0,11.0,10.0,True,True,MFP2-bits,official_parallel_subprocess,46,46,2.7490227222442627
+0,21,423,Malioxamycin,KXQRAPMNPUXYGT,3,1,2,23,True,1.0,1.0,2.0,True,True,MFP2-bits,official_parallel_subprocess,46,46,2.7490227222442627
+0,22,60,.beta.-Gentiobiose,DLRVVLDZNNYCBX,3,1,3,50,True,9.0,2.0,2.0,True,True,MFP2-bits,official_parallel_subprocess,560,560,3.080881357192993
+0,22,61,Maltopentaose,FJCUPROCOFFUSR,3,1,3,10,True,1.0,1.0,3.0,True,True,MFP2-bits,official_parallel_subprocess,560,560,3.080881357192993
+0,23,67,Cys-Arg-Arg,UKVGHFORADMBEN,3,1,3,18,False,,,,False,False,MFP2-bits,official_parallel_subprocess,75,75,2.7661006450653076
+0,23,84,Met-Arg-Arg,JQEBITVYKUCBMC,3,1,3,3,False,,,,False,False,MFP2-bits,official_parallel_subprocess,75,75,2.7661006450653076
+0,24,148,Cys-Leu-Arg,ABLJDBFJPUWQQB,3,1,3,33,False,,,,False,False,MFP2-bits,official_parallel_subprocess,1189,1189,3.3317551612854004
+0,24,154,Ser-Tyr-Arg,FGBLCMLXHRPVOF,3,1,3,34,False,,,,False,False,MFP2-bits,official_parallel_subprocess,1189,1189,3.3317551612854004
+0,25,158,Ala-Arg-Lys,LWUWMHIOBPTZBA,3,1,3,9,False,,,,False,False,MFP2-bits,official_parallel_subprocess,169,169,2.8125362396240234
+0,25,160,Cys-Arg-Lys,NLCZGISONIGRQP,3,1,3,16,False,,,,False,False,MFP2-bits,official_parallel_subprocess,169,169,2.8125362396240234
+0,26,238,Lontrel,HUBANNPOLNYSAD,3,1,2,22,True,1.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,690,690,3.081770420074463
+0,26,362,Diclofenac,DCOPUUMXTXDBNB,3,1,2,30,True,4.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,690,690,3.081770420074463
+0,27,265,"7,8,4'-Trihydroxyflavone",HJCIUNMVLYBADX,3,1,2,50,True,9.0,12.0,15.0,True,True,MFP2-bits,official_parallel_subprocess,2550,2550,3.9625906944274902
+0,27,272,"7,8,3'-Trihydroxyflavone",ZJZSQGDOCUHCCW,3,1,2,50,False,,,,False,False,MFP2-bits,official_parallel_subprocess,2550,2550,3.9625906944274902
+0,28,301,Dichlorvos,OEBRKCOSUFCWJD,3,1,2,3,True,1.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,99,99,2.7891933917999268
+0,28,502,Mevinphos,GEPDYQSQVLXLEU,3,1,2,32,True,1.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,99,99,2.7891933917999268
+0,29,359,Hexadecanoic acid,IPCSVZSSVZVIGE,3,1,3,50,True,3.0,22.0,22.0,True,True,MFP2-bits,official_parallel_subprocess,2600,2600,3.776325225830078
+0,29,380,Tridecanoic acid,SZHOJFHSIKHZHA,3,1,3,50,True,2.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,2600,2600,3.776325225830078
+0,30,383,Promethazine,PWWVAXIEGOYWEE,3,1,3,37,True,22.0,2.0,2.0,True,True,MFP2-bits,official_parallel_subprocess,1557,1557,3.4633829593658447
+0,30,466,Promethazine sulfoxide,OWTCLFIFAFHQIX,3,1,3,40,True,35.0,7.0,5.0,True,True,MFP2-bits,official_parallel_subprocess,1557,1557,3.4633829593658447
+0,31,391,Silybin,SEBFKMXJBCUCAI,3,1,3,23,True,12.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,575,575,3.061547040939331
+0,31,483,Silychristin,BMLIIPOXVWESJG,3,1,3,23,True,12.0,3.0,2.0,True,True,MFP2-bits,official_parallel_subprocess,575,575,3.061547040939331
+0,32,421,"2-Furancarboxamide, 5-(4-chlorophenyl)-N-(3,5-dimethoxyphenyl)-",VHKBTPQDHDSBSP,3,1,3,44,True,4.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,1574,1574,3.5752463340759277
+0,32,458,"2-Furancarboxamide, 5-(3-chlorophenyl)-N-[4-(4-morpholinylmethyl)phenyl]-",XQJWTJLJEYIUDZ,3,1,3,34,True,2.0,2.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,1574,1574,3.5752463340759277
+0,33,33,(+)-Methamphetamine,MYWUZJCMWCOHBA,2,1,1,50,True,1.0,2.0,2.0,True,True,MFP2-bits,official_parallel_subprocess,50,50,2.8230836391448975
+0,34,43,.alpha.-Galactosyl-N-stearoylsphingosine,YMYQEDCYNANIPI,2,1,1,2,True,1.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,2,2,2.6794629096984863
+0,35,134,Ala-Pro-Lys,BTRULDJUUVGRNE,2,1,1,7,False,,,,False,False,MFP2-bits,official_parallel_subprocess,7,7,2.734977960586548
+0,36,139,Ser-Asn-Lys,VGNYHOBZJKWRGI,2,1,1,12,False,,,,False,False,MFP2-bits,official_parallel_subprocess,12,12,2.755084276199341
+0,37,145,Thr-Ile-Arg,WPAKPLPGQNUXGN,2,1,1,5,False,,,,False,False,MFP2-bits,official_parallel_subprocess,5,5,2.766697406768799
+0,38,152,Cys-Met-Arg,XSQAWJCVYDEWPT,2,1,1,47,False,,,,False,False,MFP2-bits,official_parallel_subprocess,47,47,2.786689281463623
+0,39,197,Rutin,IKGXIBQEEMLURG,2,1,1,50,True,21.0,3.0,4.0,True,True,MFP2-bits,official_parallel_subprocess,50,50,2.797781467437744
+0,40,210,4-Ethoxy-7-methylcoumarin,UQNGBKYOCBSSOA,2,1,1,50,False,,,,False,False,MFP2-bits,official_parallel_subprocess,50,50,2.8100008964538574
+0,41,226,"3-(3,4-Dimethoxyphenyl)coumarin",OIFPKNYYBNPHRA,2,1,1,50,True,16.0,19.0,20.0,True,True,MFP2-bits,official_parallel_subprocess,50,50,2.7796714305877686
+0,42,394,N-Desethylamodiaquine,VRXFDHAGFYWGHT,2,1,1,41,True,16.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,41,41,2.792787790298462
+0,43,499,Diclobutrazol,URDNHJIVMYZFRT,2,1,1,33,True,9.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,33,33,2.784688949584961
+0,44,243,Quinine,LOUPRKONTZGTKE,2,1,1,50,True,37.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,50,50,2.7990074157714844
+0,45,300,5-Fluoro-1-(tetrahydro-2-furyl)uracil,WFWLQNSHRPWKFK,2,1,1,50,True,14.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,50,50,2.8000447750091553
+0,46,481,N-Succinyl-5-aminoimidazole-4-carboxamide ribose,XNKLTOHYNRQCLJ,2,1,1,28,True,6.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,28,28,2.806375741958618
+0,47,295,LNnT,RBMYDHMFFAVMMM,2,1,1,10,True,1.0,3.0,3.0,True,True,MFP2-bits,official_parallel_subprocess,10,10,2.7787024974823
+0,48,294,3'-Fucosyllactose,AUNPEJDACLEKSC,2,1,1,27,True,17.0,2.0,2.0,True,True,MFP2-bits,official_parallel_subprocess,27,27,2.8079068660736084
+0,49,305,Diazepam,AAOVKJBEBIDNHE,2,1,1,50,True,4.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,50,50,2.797785520553589
+0,50,496,Pronamide,PHNUZKMIPFFYSO,2,1,1,21,True,1.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,21,21,2.775054454803467
+0,51,489,Eriodictyol 7-O-neohesperidoside,OBKKEZLIABHSGY,2,1,1,28,True,3.0,7.0,7.0,True,True,MFP2-bits,official_parallel_subprocess,28,28,2.748396396636963
+0,52,343,Dasatinib,ZBNZXTGUTAYRHI,2,1,1,15,True,1.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,15,15,2.747974395751953
+0,53,378,2-(2-Butoxyethoxy)acetic acid,MCORDGVZLPBVJB,2,1,1,50,True,3.0,6.0,6.0,True,True,MFP2-bits,official_parallel_subprocess,50,50,2.830451250076294
+0,54,507,Isophorone,HJOVHMDZYOCNQW,2,1,1,50,False,,,,False,False,MFP2-bits,official_parallel_subprocess,50,50,2.749119758605957
+0,55,397,Vardenafil,SECKRCOLJRRGGV,2,1,1,30,True,6.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,30,30,2.7766311168670654
+0,56,467,N-Desethylsunitinib,LIZNIAKSBJKPQC,2,1,1,50,True,3.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,50,50,2.737067699432373
+0,57,444,Isoginkgetin,HUOOMAOYXQFIDQ,2,1,1,7,True,3.0,2.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,7,7,2.735166549682617
+0,58,477,21-Deacetoxydeflazacort,WQUXBQVUVGNOKK,2,1,1,30,True,6.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,30,30,2.7448654174804688
+0,59,498,Dimethenamide-P,JLYFCTQDENRSOL,2,1,1,18,True,5.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,18,18,2.7496378421783447
+0,60,531,2-Chloro-5-nitro-N-4-pyridinylbenzamide,FRPJSHKMZHWJBE,2,1,1,15,True,4.0,2.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,15,15,2.7609243392944336
+0,61,520,8-Hydroxyquinoline-2-carbonitrile,KUQKKIBQVSFDHX,2,1,1,50,True,7.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,50,50,2.831146240234375

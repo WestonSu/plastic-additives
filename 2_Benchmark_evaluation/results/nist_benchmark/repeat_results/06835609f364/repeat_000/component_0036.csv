@@ -1,0 +1,2 @@
+repeat_id,component_id,target_node,target_name,true_inchikey1,n_component_nodes,n_component_seeds,n_component_edges,n_target_candidates,true_candidate_found,MetFrag_rank,ChemWalker_rank,mNAP_rank,ChemWalker_reachable,mNAP_reachable,ChemWalker_fingerprint,ChemWalker_execution,ChemWalker_candidate_edges,ChemWalker_estimated_candidate_pairs,ChemWalker_seconds
+0,36,139,Ser-Asn-Lys,VGNYHOBZJKWRGI,2,1,1,12,False,,,,False,False,MFP2-bits,official_parallel_subprocess,12,12,2.755084276199341

@@ -1,0 +1,9 @@
+repeat_id,component_id,target_node,target_name,true_inchikey1,n_component_nodes,n_component_seeds,n_component_edges,n_target_candidates,true_candidate_found,MetFrag_rank,ChemWalker_rank,mNAP_rank,ChemWalker_reachable,mNAP_reachable,ChemWalker_fingerprint,ChemWalker_execution,ChemWalker_candidate_edges,ChemWalker_estimated_candidate_pairs,ChemWalker_seconds
+0,7,17,"L-Phenylalanine, butyl ester",VSFDFIPJWOBYLZ,9,1,12,50,False,,,,False,False,MFP2-bits,official_parallel_subprocess,19721,19721,11.939963817596436
+0,7,20,"Tyrosine, butyl ester",DCAUNIBIBOKWOZ,9,1,12,50,False,,,,False,False,MFP2-bits,official_parallel_subprocess,19721,19721,11.939963817596436
+0,7,21,"p-Fluorophenylalanine, butyl ester",CKGLWHWHYHOWQJ,9,1,12,50,False,,,,False,False,MFP2-bits,official_parallel_subprocess,19721,19721,11.939963817596436
+0,7,22,"N-Acetylphenylalanine, butyl ester",SURCSYZOBGEWTF,9,1,12,50,False,,,,False,False,MFP2-bits,official_parallel_subprocess,19721,19721,11.939963817596436
+0,7,26,"3,4-Dihydroxyphenylalanine, butyl ester",QDMOINLDXCZCEK,9,1,12,50,False,,,,False,False,MFP2-bits,official_parallel_subprocess,19721,19721,11.939963817596436
+0,7,28,"N-Acetyltyrosine, butyl ester",CTJGJXAREXCTJW,9,1,12,50,False,,,,False,False,MFP2-bits,official_parallel_subprocess,19721,19721,11.939963817596436
+0,7,35,2-Hydroxyphenylacetic acid,CCVYRRGZDBSHFU,9,1,12,50,False,,,,False,False,MFP2-bits,official_parallel_subprocess,19721,19721,11.939963817596436
+0,7,312,"2-Amino-4,6-dinitrotoluene",IEEJAAUSLQCGJH,9,1,12,21,True,5.0,6.0,2.0,True,True,MFP2-bits,official_parallel_subprocess,19721,19721,11.939963817596436

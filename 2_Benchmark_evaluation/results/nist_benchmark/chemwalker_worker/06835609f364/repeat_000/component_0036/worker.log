@@ -1,0 +1,31 @@
+Worker identifier: official_chemwalker_subprocess
+Python: C:\ProgramData\miniconda3\envs\chemwalker\python.exe
+ChemWalker source: C:\ProgramData\miniconda3\envs\chemwalker\Lib\site-packages\chemwalker\rwalker.py
+Calling original chemwalker.rwalker.cand_pair with parallel=True, ncors=4, fingerprint=MFP2-bits
+Spectral edges=1; tlid rows=13; seed structures=1; estimated candidate pairs=12
+[01:25:42] DEPRECATION WARNING: please use MorganGenerator
+[01:25:42] DEPRECATION WARNING: please use MorganGenerator
+[01:25:42] DEPRECATION WARNING: please use MorganGenerator
+[01:25:42] DEPRECATION WARNING: please use MorganGenerator
+[01:25:42] DEPRECATION WARNING: please use MorganGenerator
+[01:25:42] DEPRECATION WARNING: please use MorganGenerator[01:25:42] [01:25:42] DEPRECATION WARNING: please use MorganGenerator
+DEPRECATION WARNING: 
+please use MorganGenerator
+[01:25:42] DEPRECATION WARNING: please use MorganGenerator
+[01:25:42] DEPRECATION WARNING: please use MorganGenerator
+[01:25:42] DEPRECATION WARNING: please use MorganGenerator
+[01:25:42] DEPRECATION WARNING: please use MorganGenerator
+[01:25:42] DEPRECATION WARNING: please use MorganGenerator
+[01:25:42] DEPRECATION WARNING: please use MorganGenerator
+[01:25:42] DEPRECATION WARNING: please use MorganGenerator
+[01:25:42] DEPRECATION WARNING: please use MorganGenerator
+[01:25:42] DEPRECATION WARNING: please use MorganGenerator
+[01:25:42] DEPRECATION WARNING: please use MorganGenerator
+[01:25:42] DEPRECATION WARNING: please use MorganGenerator
+[01:25:42] DEPRECATION WARNING: please use MorganGenerator
+[01:25:42] DEPRECATION WARNING: please use MorganGenerator
+[01:25:42] DEPRECATION WARNING: please use MorganGenerator
+[01:25:42] DEPRECATION WARNING: please use MorganGenerator
+[01:25:42] DEPRECATION WARNING: please use MorganGenerator
+Original cand_pair completed: candidate edges=12; elapsed=1.9 s
+Worker output saved: D:\suwenyuan\Benchmark_evaluation\results\nist_benchmark\chemwalker_worker\06835609f364\repeat_000\component_0036\output.pkl

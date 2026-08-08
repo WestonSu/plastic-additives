@@ -1,0 +1,3 @@
+repeat_id,component_id,target_node,target_name,true_inchikey1,n_component_nodes,n_component_seeds,n_component_edges,n_target_candidates,true_candidate_found,MetFrag_rank,ChemWalker_rank,mNAP_rank,ChemWalker_reachable,mNAP_reachable,ChemWalker_fingerprint,ChemWalker_execution,ChemWalker_candidate_edges,ChemWalker_estimated_candidate_pairs,ChemWalker_seconds
+0,24,148,Cys-Leu-Arg,ABLJDBFJPUWQQB,3,1,3,33,False,,,,False,False,MFP2-bits,official_parallel_subprocess,1189,1189,3.3317551612854004
+0,24,154,Ser-Tyr-Arg,FGBLCMLXHRPVOF,3,1,3,34,False,,,,False,False,MFP2-bits,official_parallel_subprocess,1189,1189,3.3317551612854004

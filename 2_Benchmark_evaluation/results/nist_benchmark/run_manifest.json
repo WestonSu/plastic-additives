@@ -1,0 +1,86 @@
+{
+  "release_id": "published_benchmark",
+  "configuration": {
+    "RELEASE_ID": "published_benchmark",
+    "NETWORK_CACHE_SCHEMA": "nist_network",
+    "CANDIDATE_CACHE_SCHEMA": "nist_metfrag_candidates_2d",
+    "SEED_ALLOCATION_SCHEME": "component_stratified_10_percent",
+    "N_COMPOUNDS_TO_SAMPLE": null,
+    "MAX_SPECTRA_PER_COMPOUND": 1,
+    "RANDOM_SEED": 2026,
+    "SEED_FRACTION": 0.1,
+    "N_SEED_REPEATS": 10,
+    "IONMODE_FILTER": "positive",
+    "ADDUCT_FILTER": "[M+H]+",
+    "SPECTRUM_TYPE_FILTER": "MS2",
+    "BENCHMARK_PROCESSING_BATCH": 1,
+    "MIN_PEAKS": 3,
+    "FRAGMENT_TOLERANCE": 0.01,
+    "MIN_COSINE": 0.6,
+    "MIN_MATCHED_PEAKS": 2,
+    "TOPK": 10,
+    "PPM": 10,
+    "TOP_N_CANDIDATES_PER_NODE": 50,
+    "FINGERPRINT_METHOD_FOR_CHEMWALKER": "MFP2-bits",
+    "CHEMWALKER_PARALLEL": true,
+    "CHEMWALKER_NCORES": 4,
+    "CHEMWALKER_HEARTBEAT_SECONDS": 30,
+    "CHEMWALKER_COMPONENT_TIMEOUT_SECONDS": 21600,
+    "CHEMWALKER_EXECUTION_MODE": "official_parallel_subprocess",
+    "CHEMWALKER_SIGMOID_A": -9.0,
+    "CHEMWALKER_SIGMOID_B": 0.6,
+    "RESTART_PROB": 0.1,
+    "MNAP_BETA": 0.5,
+    "MNAP_SCORE_EPS": 0.05,
+    "MNAP_EDGE_MODE": "sigmoid"
+  },
+  "network_signature": "0131eec384570a8f0fa9dca180ebbbc4550af295e3e05abb99f63c79bfff4bf3",
+  "candidate_signature": "ed669f44bd45b5118b1b338efde0cf406f6c4fa02cbb91de31e137cbae349099",
+  "ranking_signature": "06835609f36466643a986f9e837a1d15e02078c5b406c9b5e8795102754813f6",
+  "input_msp": {
+    "path": "D:\\suwenyuan\\Benchmark_evaluation\\data\\nist.msp",
+    "exists": true,
+    "size": 883724,
+    "mtime_ns": 1785308100313710600
+  },
+  "benchmark_table": {
+    "path": "D:\\suwenyuan\\Benchmark_evaluation\\data\\pcbi.1006089.s007.tsv",
+    "exists": true,
+    "size": 2165718,
+    "mtime_ns": 1775829650416600500
+  },
+  "pubchemlite": {
+    "path": "D:\\suwenyuan\\Benchmark_evaluation\\data\\PubChemLite.csv",
+    "exists": true,
+    "size": 310708576,
+    "mtime_ns": 1781886274875976500
+  },
+  "metfrag_jar": {
+    "path": "D:\\suwenyuan\\Benchmark_evaluation\\software\\MetFrag2.3-CL.jar",
+    "exists": true,
+    "size": 34448208,
+    "mtime_ns": 1775829650295347100
+  },
+  "chemwalker_cand_pair": {
+    "module": "chemwalker.rwalker",
+    "qualname": "cand_pair",
+    "signature": "(snet, tlid, method, parallel=True, meansc=True, ncors=0)",
+    "source_file": "C:\\ProgramData\\miniconda3\\envs\\chemwalker\\Lib\\site-packages\\chemwalker\\rwalker.py",
+    "source_file_sha256": "536b42158ab3a61f1f076dea5027562e28a0926fb34f725d839b8e0d83669c0d",
+    "callable_source_sha256": "0bd145f4c8248f260bf087bc5da8d321e422cdaa08445bb7adb4a573fc49ad77"
+  },
+  "chemwalker_random_walk": {
+    "module": "chemwalker.rwalker",
+    "qualname": "random_walk",
+    "signature": "(graph, seed, restart_prob=0.8, step=0, epsilon=1e-06, niter=10000, sparce_matrix=True)",
+    "source_file": "C:\\ProgramData\\miniconda3\\envs\\chemwalker\\Lib\\site-packages\\chemwalker\\rwalker.py",
+    "source_file_sha256": "536b42158ab3a61f1f076dea5027562e28a0926fb34f725d839b8e0d83669c0d",
+    "callable_source_sha256": "7a335f67159da86b87c6003d01bd6ac4c4d61e3ab4812803909bd53c4ae25843"
+  },
+  "chemwalker_worker": {
+    "path": "D:\\suwenyuan\\Benchmark_evaluation\\chemwalker_official_worker.py",
+    "exists": true,
+    "size": 8728,
+    "mtime_ns": 1786091628000000000
+  }
+}

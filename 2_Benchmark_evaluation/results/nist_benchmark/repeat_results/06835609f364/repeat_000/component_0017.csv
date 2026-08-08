@@ -1,0 +1,4 @@
+repeat_id,component_id,target_node,target_name,true_inchikey1,n_component_nodes,n_component_seeds,n_component_edges,n_target_candidates,true_candidate_found,MetFrag_rank,ChemWalker_rank,mNAP_rank,ChemWalker_reachable,mNAP_reachable,ChemWalker_fingerprint,ChemWalker_execution,ChemWalker_candidate_edges,ChemWalker_estimated_candidate_pairs,ChemWalker_seconds
+0,17,259,N-Palmitoyl-D-erythro-dihydroceramide-1-phosphate,ILHPMPAVRAZOJB,4,1,5,1,True,1.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,16,16,2.7431483268737793
+0,17,315,N-Myristoylsphinganine,UDTSZXVRDXQARY,4,1,5,3,True,1.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,16,16,2.7431483268737793
+0,17,529,N-Stearoylsphinganine,KZTJQXAANJHSCE,4,1,5,2,True,1.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,16,16,2.7431483268737793

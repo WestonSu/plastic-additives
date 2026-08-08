@@ -1,0 +1,2 @@
+repeat_id,component_id,target_node,target_name,true_inchikey1,n_component_nodes,n_component_seeds,n_component_edges,n_target_candidates,true_candidate_found,MetFrag_rank,ChemWalker_rank,mNAP_rank,ChemWalker_reachable,mNAP_reachable,ChemWalker_fingerprint,ChemWalker_execution,ChemWalker_candidate_edges,ChemWalker_estimated_candidate_pairs,ChemWalker_seconds
+0,49,305,Diazepam,AAOVKJBEBIDNHE,2,1,1,50,True,4.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,50,50,2.797785520553589

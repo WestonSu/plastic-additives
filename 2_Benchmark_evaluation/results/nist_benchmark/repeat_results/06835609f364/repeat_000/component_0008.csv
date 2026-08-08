@@ -1,0 +1,9 @@
+repeat_id,component_id,target_node,target_name,true_inchikey1,n_component_nodes,n_component_seeds,n_component_edges,n_target_candidates,true_candidate_found,MetFrag_rank,ChemWalker_rank,mNAP_rank,ChemWalker_reachable,mNAP_reachable,ChemWalker_fingerprint,ChemWalker_execution,ChemWalker_candidate_edges,ChemWalker_estimated_candidate_pairs,ChemWalker_seconds
+0,8,276,Genipin,AZKVWQKMDGGDSV,9,1,21,50,True,6.0,11.0,16.0,True,True,MFP2-bits,official_parallel_subprocess,10666,10666,7.966322898864746
+0,8,533,Gln-Val,MRVYVEQPNDSWLH,9,1,21,18,True,1.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,10666,10666,7.966322898864746
+0,8,549,Gln-Cys,XIPZDANNDPMZGQ,9,1,21,36,True,1.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,10666,10666,7.966322898864746
+0,8,550,Gln-Leu,ARPVSMCNIDAQBO,9,1,21,18,True,5.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,10666,10666,7.966322898864746
+0,8,552,Gln-Glu,OWOFCNWTMWOOJJ,9,1,21,42,True,2.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,10666,10666,7.966322898864746
+0,8,553,Gln-Ile,XITLYYAIPBBHPX,9,1,21,18,True,3.0,2.0,3.0,True,True,MFP2-bits,official_parallel_subprocess,10666,10666,7.966322898864746
+0,8,554,Gln-Asp,SSHIXEILTLPAQT,9,1,21,36,True,4.0,1.0,1.0,True,True,MFP2-bits,official_parallel_subprocess,10666,10666,7.966322898864746
+0,8,555,Gln-Pro,NJMYZEJORPYOTO,9,1,21,22,True,1.0,1.0,2.0,True,True,MFP2-bits,official_parallel_subprocess,10666,10666,7.966322898864746

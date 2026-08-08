@@ -1,0 +1,4 @@
+comparison,Top10_difference_mean,CI_2.5%,CI_97.5%,bootstrap_iterations,cluster_unit
+ChemWalker minus MetFrag,0.10306478203792852,0.022981974921630066,0.17448851928171907,1000,component_id (all seed repeats kept together)
+mNAP minus MetFrag,0.13936799634624014,0.04408308195072897,0.20553727094822985,1000,component_id (all seed repeats kept together)
+mNAP minus ChemWalker,0.03630321430831161,0.0,0.057436412197537874,1000,component_id (all seed repeats kept together)
