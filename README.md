@@ -330,25 +330,15 @@ If you use this repository, please cite the associated manuscript once it become
 
 ### Related methods and software
 
-1. **Helmus, R.; ter Laak, T. L.; van Wezel, A. P.; de Voogt, P.; Schymanski, E. L.**  
-   patRoon: open source software platform for environmental mass spectrometry based non-target screening. *J. Cheminform.* **2021**, *13*, 1.  
-   DOI: `10.1186/s13321-020-00477-w`
+1. **Yu, J. S.; Kwak, Y. B.; Kee, K. H.; Wang, M.; Kim, D. H.; Dorrestein, P. C.; Kang, K. B.; Yoo, H. H., A versatile toolkit for drug metabolism studies with GNPS2: From drug development to clinical monitoring. Nat. Protoc. 2026, 21, (4), 1265-1299.**  
 
-2. **Ruttkies, C.; Schymanski, E. L.; Wolf, S.; Hollender, J.; Neumann, S.**  
-   MetFrag relaunched: incorporating strategies beyond in silico fragmentation. *J. Cheminform.* **2016**, *8*, 3.  
-   DOI: `10.1186/s13321-016-0115-9`
+2. **Borelli, T. C.; Arini, G. S.; Feitosa, L. G. P.; Dorrestein, P. C.; Lopes, N. P.; da Silva, R. R., Improving annotation propagation on molecular networks through random walks: introducing ChemWalker. Bioinformatics 2023, 39, (3), btad078.**  
 
-3. **da Silva, R. R. et al.**  
-   Propagating annotations of molecular networks using in silico fragmentation. *PLoS Comput. Biol.* **2018**, *14*, e1006089.  
-   DOI: `10.1371/journal.pcbi.1006089`
+3. **Silva, R. R. d.; Wang, M.; Nothias, L.-F.; Hooft, J. J. J. v. d.; Caraballo-Rodríguez, A. M.; Fox, E.; Balunas, M. J.; Klassen, J. L.; Lopes, N. P.; Dorrestein, P. C., Propagating annotations of molecular networks using in silico fragmentation. PLOS Comput. Biol. 2018, 14, (4), e1006089.**  
 
-4. **Borelli, T. C. et al.**  
-   Improving annotation propagation on molecular networks through random walks: introducing ChemWalker. *Bioinformatics* **2023**, *39*, btad078.  
-   DOI: `10.1093/bioinformatics/btad078`
+4. **Wang, X.; Li, C.; Li, Z.; Qi, Y.; Zhang, X.; Zhao, X.; Zhao, C.; Lin, X.; Lu, X.; Xu, G., A structure-guided molecular network strategy for global untargeted metabolomics data annotation. Anal. Chem. 2023, 95, (31), 11603-11612.**  
 
-5. **Nothias, L.-F. et al.**  
-   Feature-based molecular networking in the GNPS analysis environment. *Nat. Methods* **2020**, *17*, 905–908.  
-   DOI: `10.1038/s41592-020-0933-6`
+5. **Zhang, Z.; Pedrycz, W., Intuitionistic multiplicative group analytic hierarchy process and its use in multicriteria group decision-making. IEEE Trans. Cybern. 2018, 48, (7), 1950-1962.**  
 
 ---
 
